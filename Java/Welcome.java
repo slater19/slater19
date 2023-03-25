@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Hello {
+public class Welcome {
 
 	public static void main(String[] args) {
 		
