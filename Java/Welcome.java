@@ -91,7 +91,7 @@ public class Welcome {
 			System.out.println("Back to main");
 			
 		
-			Hello.main(new String[1]);
+			Welcome.main(new String[1]);
 			
 			}
 			else
